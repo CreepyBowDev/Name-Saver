@@ -8,9 +8,6 @@ A simple web app that allows users to **save a name** in `localStorage` and disp
 - ✅ **Automatically loads the saved name** when reopening the page.
 - ✅ **Clear name button** to remove the saved name.
 
-## 🚀 Live Demo
-🔗 [Live Demo](#) *(If hosted on GitHub Pages, Netlify, etc.)*
-
 ## 🛠️ Technologies Used
 - **HTML5**
 - **CSS3**
