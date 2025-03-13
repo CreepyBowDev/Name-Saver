@@ -17,4 +17,4 @@ A simple web app that allows users to **save a name** in `localStorage` and disp
 ## 📦 Installation
 1. **Clone the repository:**
    ```bash
-   https://github.com/CreepyBowDev/Name-Saver.git
+   git clone https://github.com/CreepyBowDev/Name-Saver.git
